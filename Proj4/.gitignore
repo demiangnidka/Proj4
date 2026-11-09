@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.log
+*.tlog/
+
+# Згенеровані дані
+data/
+
+# CMake / Linux
+build/

@@ -1,0 +1,10 @@
+Files loaded (file reading time is not included)
+
+=== Separate mutex per field ===
+  file a, threads 1, run 1:    195.7 ms (checksum 16196396)
+  file a, threads 1, run 2:    209.4 ms (checksum 16196396)
+  file a, threads 1, run 3:    413.0 ms (checksum 16196396)
+  file a, threads 1, run 4:    372.3 ms (checksum 16196396)
+  file a, threads 1, run 5:    299.9 ms (checksum 16196396)
+  file a, threads 2, run 1:    439.5 ms (checksum 16196396)
+  file a, threads 2, run 2:    366.4 ms (checksum 16196396)
